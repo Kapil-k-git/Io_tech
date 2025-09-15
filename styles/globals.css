@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import "swiper/css";
+@import "swiper/css/navigation";
+@import "remixicon/fonts/remixicon.css";
+
+
+html, body, #__next {
+  height: 100%;
+  background: #f8fafc;
+}
